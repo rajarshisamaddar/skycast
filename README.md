@@ -27,27 +27,58 @@ SkyCast is a modern and user-friendly weather app designed to provide you with r
 
 Follow these instructions to install and set up the SkyCast Weather App locally on your machine:
 
+### Setting up the React.js App
+
 1. Clone the repository:
    
    ```
-   git clone https://github.com/
+   git clone https://github.com/rajarshisamaddar/skycast.git
    cd skycast-main
    ```
-3. Install dependencies:
+2. Install dependencies:
    
    ```
    npm install
    or
    yarn install
    ```
-5. Start the development server:
+3. Start the development server:
    
    ```
    npm start
    or
    yarn start
    ```
-7. Open your browser and navigate to `http://localhost:3000` to view the app.
+4. Open your browser and navigate to `http://localhost:3000` to view the app.
+
+### Setting up the Node.js App
+
+5. Navigate to the directory:
+   
+   ```
+   cd backend
+   ```
+6. Install dependencies:
+   
+   ```
+   npm install
+   or
+   yarn install
+   ```
+7. Start the development server:
+   
+   ```
+   npm start
+   or
+   yarn start
+   ```
+8. Open your browser and navigate to `http://localhost:3033` to view the app.
+
+### Connecting API
+
+9. Open the `API - Demo.ts` file and replace your credentials and the API keys.
+    
+10. Now enjoy your own local version of SkyCast.
 
 ## Usage
 
