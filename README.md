@@ -5,14 +5,14 @@ Welcome to **SkyCast**, Your Ultimate Weather Companion! 🌤️
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Key Features](##key-features)
-- [Installation and Setup](##installation-and-setup)
-- [Usage](##usage)
-- [Tech Stack Used](##tech-stack-used)
+- [Key Features](#key-features)
+- [Installation and Setup](#installation-and-setup)
+- [Usage](#usage)
+- [Tech Stack Used](#tech-stack-used)
 - [Contributing](##contributing)
-- [License](##license)
-- [Acknowledgments](##acknowledgments)
-- [Contact](##contact)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
 
 ## Introduction
 
