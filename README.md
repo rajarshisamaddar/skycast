@@ -1,25 +1,21 @@
 # SkyCast Weather App
 
-Welcome to SkyCast, Your Ultimate Weather Companion! 🌤️
+Welcome to **SkyCast**, Your Ultimate Weather Companion! 🌤️
 
 ## Introduction
 
-SkyCast is a modern and user-friendly weather app that delivers dynamic weather data straight from APIs. Explore real-time weather forecasts for any city or country with ease. Customize your weather experience by adding locations to your favorites and seamlessly toggling between Celsius and Fahrenheit temperature units. 🌡️
-
-Built with React.js and adorned with Material-UI, SkyCast boasts a beautiful and responsive design, ensuring a delightful weather tracking experience on any device. Embrace the convenience of theme customization to match your style and preferences. 🎨
-
-SkyCast is a single-page weather forecast application that allows you to search for weather information of different locations, view hourly and daily forecasts, and customize app settings according to your preferences.
+SkyCast is a modern and user-friendly weather app designed to provide you with real-time weather data for any city or country. Stay informed about the latest forecasts, personalize your weather experience, and toggle between Celsius and Fahrenheit temperature units 🌡️. With its responsive design and theme customization options 🎨, SkyCast ensures an enjoyable weather-tracking experience on any device. Discover the wonders of weather with SkyCast! 🌤️
 
 ## Key Features
 
-- Dynamic weather data from reliable APIs for any location worldwide.
-- City & country-wise weather data fetching.
-- Sign-in/Sign-out functionality - Google, GitHub, Facebook, Apple, and LinkedIn
-- Sign in to the app and enjoy a personalized weather journey tailored to your preferences.
-- Easily manage and save your favorite locations for quick access to their weather forecasts.
-- Temperature converter for Celsius (°C) / Fahrenheit (°F)
-- Dark mode theme support
-- Enjoy a delightful weather tracking experience on any device, thanks to the app's beautiful and responsive design.
+- **Real-time Weather Data:** Access dynamic and up-to-date weather information from reliable APIs for any location worldwide.
+- **City and Country-based Forecasts:** Fetch weather data based on specific cities or countries to stay informed about various locations.
+- **Personalized Weather Experience:** Sign in to the app and enjoy a personalized weather journey tailored to your preferences.
+- **Favorites Locations:** Easily manage and save your favorite locations for quick access to their weather forecasts.
+- **Temperature Units Toggle:** Seamlessly switch between Celsius (°C) and Fahrenheit (°F) temperature units as per your preference.
+- **Theme Customization:** Choose from a selection of themes to personalize the app's appearance and match your style.
+- **Responsive Design:** Enjoy a delightful weather tracking experience on any device, thanks to the app's beautiful and responsive design.
+- **Dark Mode Support:** Embrace Dark Mode for enhanced visibility and comfort during low-light conditions.
 
 ## Screenshots
 
