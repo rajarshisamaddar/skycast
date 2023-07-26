@@ -6,6 +6,7 @@ Welcome to **SkyCast**, Your Ultimate Weather Companion! 🌤️
 
 - [Introduction](#introduction)
 - [Key Features](#key-features)
+- [Screenshots](#screenshots)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Tech Stack Used](#tech-stack-used)
