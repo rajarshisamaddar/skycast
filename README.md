@@ -136,7 +136,7 @@ I welcome contributions from the community. If you find any bugs or have suggest
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](/path/to/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
 
 ## Acknowledgments
 
