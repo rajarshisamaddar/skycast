@@ -1,0 +1,12 @@
+@import './var';
+
+.App {
+  background: $bg-clr-main;
+  font-family: $font-main;
+  &.cloud_day {
+    background: linear-gradient(rgb(35, 77, 112) 0%, rgb(7, 33, 59) 100%);
+  }
+  &.clear_night {
+    background: linear-gradient(rgb(40, 69, 110) 0%, rgb(20, 36, 68) 100%);
+  }
+}

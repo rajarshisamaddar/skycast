@@ -1,0 +1,17 @@
+# Rajarshi Samaddar - SkyCast
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+API.js
+
+# production
+/build
+
+# misc
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
