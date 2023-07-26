@@ -2,6 +2,18 @@
 
 Welcome to **SkyCast**, Your Ultimate Weather Companion! 🌤️
 
+## Table of Contents
+
+- [Introduction](##introduction)
+- [Key Features](##key-features)
+- [Installation and Setup](##installation-and-setup)
+- [Usage](##usage)
+- [Tech Stack Used](##tech-stack-used)
+- [Contributing](##contributing)
+- [License](##license)
+- [Acknowledgments](##acknowledgments)
+- [Contact](##contact)
+
 ## Introduction
 
 SkyCast is a modern and user-friendly weather app designed to provide you with real-time weather data for any city or country. Stay informed about the latest forecasts, personalize your weather experience, and toggle between Celsius and Fahrenheit temperature units 🌡️. With its responsive design and theme customization options 🎨, SkyCast ensures an enjoyable weather-tracking experience on any device. Discover the wonders of weather with SkyCast! 🌤️
