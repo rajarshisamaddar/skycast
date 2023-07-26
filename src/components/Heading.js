@@ -29,7 +29,7 @@ import {
   themeToggle,
 } from "../redux/slices/global/globalSlice";
 import Settings from "./Settings";
-import { MY_SERVER_URL } from "../API";
+import { MY_SERVER_URL } from "../API.ts";
 
 export default function Heading({ currentZone }) {
   const SERVER_URL = MY_SERVER_URL;
