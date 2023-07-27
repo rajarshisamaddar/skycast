@@ -175,9 +175,9 @@ I hope you enjoy using SkyCast for all your weather forecasting needs!
 
 - React.js
 - Material-UI
+- Redux Toolkit
 - Node JS
 - JSON Server
-- Redux Toolkit
 - HTML5
 - CSS3
 - SCSS
