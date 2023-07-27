@@ -2,6 +2,8 @@
 
 Welcome to **SkyCast**, Your Ultimate Weather Companion! 🌤️
 
+> **NOTE -** As I am utilizing the Render Free Tier to host the Node server, your data, including favorites, preferences, and theme, will be available across all your devices for the next 15 minutes. Please make sure to log in again within this timeframe to continue enjoying a seamless and personalized weather experience across all your devices. After 15 minutes of inactivity, the data will be reset. Thank you for your understanding!
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -10,7 +12,7 @@ Welcome to **SkyCast**, Your Ultimate Weather Companion! 🌤️
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Tech Stack Used](#tech-stack-used)
-- [Contributing](##contributing)
+- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
@@ -27,17 +29,20 @@ SkyCast is a modern and user-friendly weather app designed to provide you with r
 - **Favorites Locations:** Easily manage and save your favorite locations for quick access to their weather forecasts.
 - **Temperature Units Toggle:** Seamlessly switch between Celsius (°C) and Fahrenheit (°F) temperature units as per your preference.
 - **Theme Customization:** Choose from a selection of themes to personalize the app's appearance and match your style.
+- **Cross-Device Synchronization:** Your data, including favorites, preferences, and theme, is securely stored on our Node.js server. Log in on any device to enjoy a seamless and personalized weather experience across all your devices. Stay connected to your weather forecasts wherever you go!
 - **Responsive Design:** Enjoy a delightful weather tracking experience on any device, thanks to the app's beautiful and responsive design.
 - **Dark Mode Support:** Embrace Dark Mode for enhanced visibility and comfort during low-light conditions.
 
 ## Screenshots
 
-https://drive.google.com/file/d/1G3PBcg1ia7YU0uv2GptTK3OSlnT1hZTS/view?usp=drive_link
+https://github.com/rajarshisamaddar/skycast/assets/61039817/c1f58ae6-c872-4f8a-a63d-cccfcbff9546
+<hr/>
 <p align="center">
    <img src="/screenshot/1.png" width="85%" title="hover text">
    <img src="/screenshot/2.png" width="85%" title="hover text">
    <img src="/screenshot/3.png" width="85%" title="hover text">
    <img src="/screenshot/4.png" width="85%" title="hover text">
+   <img src="/screenshot/5.png" width="85%" title="hover text">
 </p>
 
 ## Installation and Setup
@@ -93,9 +98,9 @@ Follow these instructions to install and set up the SkyCast Weather App locally 
 
 ### Connecting API
 
-9. Open the `API - Demo.ts` file and replace your credentials and the API keys.
+9. Open the `API - Demo.js` file and replace your credentials and the API keys.
     
-10. Now enjoy your own local version of SkyCast.
+10. Now enjoy your own local version of `SkyCast`.
 
 ## Usage
 
@@ -172,11 +177,12 @@ I hope you enjoy using SkyCast for all your weather forecasting needs!
 - CSS3
 - SCSS
 - JavaScript
-- TypeScript
 - WeatherAPI.com - API
 - IPinfo.io - API
-- Render.com
-- Netlify.com
+- Render.com - Backend Server
+- Netlify.com - Frontend
+- Auth0 - Authentication
+- Cloudflare - DNS Config
 
 ## Contributing
 
