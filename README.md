@@ -1,8 +1,10 @@
 # SkyCast Weather App
 
-Welcome to **SkyCast**, Your Ultimate Weather Companion! 🌤️
+Welcome to **[SkyCast](https://skycast.rajarshisamaddar.com/)**, Your Ultimate Weather Companion! 🌤️
 
-> **NOTE -** As I am utilizing the Render Free Tier to host the Node server, your data, including favorites, preferences, and theme, will be available across all your devices for the next 15 minutes. Please make sure to log in again within this timeframe to continue enjoying a seamless and personalized weather experience across all your devices. After 15 minutes of inactivity, the data will be reset. Thank you for your understanding!
+> **NOTE 1 -** This project is created for Celebal Technologies as the final Internship project in CSI 23, developed by [Rajarshi Samaddar](http://www.rajarshisamaddar.com/). You can also refer to this [repository](https://github.com/rajarshisamaddar/CSI-23) to track all the weekly progress made during this summer internship. Thank you for your support and interest!
+
+> **NOTE 2 -** As I am utilizing the Render Free Tier to host the Node server, your data, including favorites, preferences, and theme, will be available across all your devices for the next 15 minutes. Please make sure to log in again within this timeframe to continue enjoying a seamless and personalized weather experience across all your devices. After 15 minutes of inactivity, the data will be reset. Thank you for your understanding!
 
 ## Table of Contents
 
@@ -209,4 +211,4 @@ I am deeply appreciative of the excellent services and support provided by these
 
 ## Contact
 
-For any inquiries or feedback, please contact us at me@rajarshisamaddar.com.
+For any inquiries or feedback, please contact us at itsrajarshi@gmail.com.
