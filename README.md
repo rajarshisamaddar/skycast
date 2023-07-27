@@ -32,9 +32,13 @@ SkyCast is a modern and user-friendly weather app designed to provide you with r
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot3.png)
+https://drive.google.com/file/d/1G3PBcg1ia7YU0uv2GptTK3OSlnT1hZTS/view?usp=drive_link
+<p align="center">
+   <img src="/screenshot/1.png" width="85%" title="hover text">
+   <img src="/screenshot/2.png" width="85%" title="hover text">
+   <img src="/screenshot/3.png" width="85%" title="hover text">
+   <img src="/screenshot/4.png" width="85%" title="hover text">
+</p>
 
 ## Installation and Setup
 
