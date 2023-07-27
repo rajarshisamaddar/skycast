@@ -10,6 +10,7 @@ Welcome to **[SkyCast](https://skycast.rajarshisamaddar.com/)**, Your Ultimate W
 
 - [Introduction](#introduction)
 - [Key Features](#key-features)
+- [Project Overview](#project-overview)
 - [Screenshots](#screenshots)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
@@ -35,12 +36,12 @@ SkyCast is a modern and user-friendly weather app designed to provide you with r
 - **Responsive Design:** Enjoy a delightful weather tracking experience on any device, thanks to the app's beautiful and responsive design.
 - **Dark Mode Support:** Embrace Dark Mode for enhanced visibility and comfort during low-light conditions.
 
+## Project Overview
+
+https://github.com/rajarshisamaddar/skycast/assets/61039817/19e23f3b-ceff-46e1-818a-df8051e71d08
+
 ## Screenshots
 
-<video width="640" height="360" controls>
-  <source src="[https://www.rajarshisamaddar.com/wp-content/uploads/2023/07/SkyCast.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 <p align="center">
    <img src="/screenshot/1.png" width="85%" title="hover text">
    <img src="/screenshot/2.png" width="85%" title="hover text">
