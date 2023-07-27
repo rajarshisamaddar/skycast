@@ -2,9 +2,9 @@
 
 Welcome to **[SkyCast](https://skycast.rajarshisamaddar.com/)**, Your Ultimate Weather Companion! 🌤️
 
-> **NOTE 1 -** This project is created for Celebal Technologies as the final Internship project in CSI 23, developed by [Rajarshi Samaddar](http://www.rajarshisamaddar.com/). You can also refer to this [repository](https://github.com/rajarshisamaddar/CSI-23) to track all the weekly progress I made during this summer internship. Thank you for your support and interest!
+> **NOTICE 1 -** This project is created for Celebal Technologies as the final Internship project in CSI 23, developed by [Rajarshi Samaddar](http://www.rajarshisamaddar.com/). Some other apps I created at CSI 23 are [Order Xpress V23](https://orderxpressv23.netlify.app/), [Apna Movie Database](https://amdb.rajarshisamaddar.com/), and [Apna Task Manager](https://apna-task-manager.netlify.app/). You can also refer to this [repository](https://github.com/rajarshisamaddar/CSI-23) to track all the weekly progress I made during this summer internship. Thank you for your support and interest!
 
-> **NOTE 2 -** I am utilizing the Render Free Tier to host the Node server, your data, including favorites, preferences, and theme, will be available across all your devices for the next 15 minutes. Please make sure to log in again within this timeframe to continue enjoying a seamless and personalized weather experience across all your devices. After 15 minutes of inactivity, the data will be reset. Thank you for your understanding!
+> **NOTICE 2 -** I am utilizing the Render Free Tier to host the Node server, your data, including favorites, preferences, and theme, will be available across all your devices for the next 15 minutes. Please make sure to log in again within this timeframe to continue enjoying a seamless and personalized weather experience across all your devices. After 15 minutes of inactivity, the data will be reset. Thank you for your understanding!
 
 ## Table of Contents
 
