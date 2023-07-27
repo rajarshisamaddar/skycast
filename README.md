@@ -35,7 +35,8 @@ SkyCast is a modern and user-friendly weather app designed to provide you with r
 
 ## Screenshots
 
-https://github.com/rajarshisamaddar/skycast/assets/61039817/c1f58ae6-c872-4f8a-a63d-cccfcbff9546
+https://github.com/rajarshisamaddar/skycast/assets/61039817/24a99646-3ee7-4dc4-bd6a-ceb469f35134
+
 <hr/>
 <p align="center">
    <img src="/screenshot/1.png" width="85%" title="hover text">
