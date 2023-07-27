@@ -1,4 +1,4 @@
-import { WEATHER_API_KEY } from "../API.ts";
+import { WEATHER_API_KEY } from "../API";
 const REACT_WEATHER_API_KEY = WEATHER_API_KEY;
 
 export const weatherOptions = {

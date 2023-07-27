@@ -21,7 +21,7 @@ import {
 } from "../redux/slices/global/globalSlice";
 import { useAuth0 } from "@auth0/auth0-react";
 import { toast } from "react-toastify";
-import { MY_SERVER_URL } from "../API.ts";
+import { MY_SERVER_URL } from "../API";
 
 const style = {
   position: "absolute",

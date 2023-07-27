@@ -17,7 +17,7 @@ import "./assets/style/style.scss";
 //Bg
 import { clear } from "./assets/img/icons/weatherIcons";
 
-import { IP_API_KEY } from "./API.ts";
+import { IP_API_KEY } from "./API";
 const REACT_IP_API_KEY = IP_API_KEY;
 
 function App() {
