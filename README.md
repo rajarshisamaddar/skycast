@@ -28,7 +28,7 @@ SkyCast is a modern and user-friendly weather app designed to provide you with r
 
 - **Real-time Weather Data:** Access dynamic and up-to-date weather information from reliable APIs for any location worldwide.
 - **City and Country-based Forecasts:** Fetch weather data based on specific cities or countries to stay informed about various locations.
-- **Personalized Weather Experience:** Sign in to the app and enjoy a personalized weather journey tailored to your preferences.
+- **Personalized Weather Experience:** Sign in to the app and enjoy a personalized weather journey tailored to your preferences. Sign In, Sign Up, and Sign Out.
 - **Favorites Locations:** Easily manage and save your favorite locations for quick access to their weather forecasts.
 - **Temperature Units Toggle:** Seamlessly switch between Celsius (°C) and Fahrenheit (°F) temperature units as per your preference.
 - **Theme Customization:** Choose from a selection of themes to personalize the app's appearance and match your style.
