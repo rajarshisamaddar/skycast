@@ -171,7 +171,7 @@ export default function Heading({ currentZone }) {
         resolveAfter3Sec,
         {
           pending: "Adding to Your Favorites...",
-          success: "Added to Favorites! 👍",
+          success: "Added to Favorites in the Settings! 👍",
           error: "Addition Error! 🤯",
         },
         { theme: theme }
