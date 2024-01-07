@@ -1,4 +1,5 @@
-const REACT_WEATHER_API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
+import { WEATHER_API_KEY } from "../API";
+const REACT_WEATHER_API_KEY = WEATHER_API_KEY;
 
 export const weatherOptions = {
   method: "GET",

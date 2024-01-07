@@ -1,0 +1,69 @@
+@import './var';
+
+.forecastCard {
+  color: #fff;
+  background-color: $bg-transparent;
+  border-radius: 5px;
+  padding: 10px;
+  opacity: 0.85;
+  &.selected {
+    opacity: 1;
+    flex: 1;
+    background-color: hsla(0, 0%, 100%, 0.15);
+    position: relative;
+    &:after {
+      content: '';
+      width: 0; 
+      height: 0; 
+      border-left: 7px solid transparent;
+      border-right: 7px solid transparent;
+      border-top: 7px solid hsla(0, 0%, 100%, 0.15);
+      position: absolute;
+      left: 50%;
+      top: 100%;
+    }
+  }
+  > p {
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  img {
+    width: 50px;
+    object-fit: cover;
+    @include respond-to('small') {
+      width: 30px;
+    }
+  }
+  .show {
+    span {
+      font-size: 14px;
+      font-weight: 600;
+      @include respond-to('small') {
+       font-size: 12px;
+      }
+    }
+  }
+  .options {
+    font-size: 11px;
+    text-align: right;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    @include respond-to('small') {
+      span {
+        font-size: 10px;
+      }
+    }
+  }
+  .add_info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 3px;
+    font-size: 12px;
+  }
+  .hide {
+    display: none;
+  }
+}
